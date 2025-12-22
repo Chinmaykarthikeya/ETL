@@ -1,0 +1,189 @@
+2025-12-22 13:11:11,640 - INFO - >>> ETL Process Started
+2025-12-22 13:11:11,642 - ERROR - Critical Error: Directory '../Python Assignment/Sales_Split' not found.
+2025-12-22 13:13:51,521 - INFO - >>> ETL Process Started
+2025-12-22 13:13:51,522 - INFO - Current working directory: c:\Users\karth\Downloads\Python Assignment\Python Assignment\PythonScripts
+2025-12-22 13:13:51,523 - INFO - Sales directory (relative): ../Python Assignment/Sales_Split
+2025-12-22 13:13:51,525 - INFO - Sales directory (resolved absolute): c:\Users\karth\Downloads\Python Assignment\Python Assignment\Python Assignment\Sales_Split
+2025-12-22 13:13:51,526 - ERROR - Critical Error: Directory not found at: 'c:\Users\karth\Downloads\Python Assignment\Python Assignment\Python Assignment\Sales_Split'
+2025-12-22 13:13:51,528 - WARNING - Could not list parent directory 'c:\Users\karth\Downloads\Python Assignment\Python Assignment\Python Assignment': [WinError 3] The system cannot find the path specified: 'c:\\Users\\karth\\Downloads\\Python Assignment\\Python Assignment\\Python Assignment'
+2025-12-22 13:16:29,847 - INFO - >>> ETL Process Started
+2025-12-22 13:16:51,285 - INFO - >>> ETL Process Started
+2025-12-22 13:16:51,286 - ERROR - Critical Error: Directory '..\Python Assignment\Python Assignment\Sales_Split' not found.
+2025-12-22 13:17:12,527 - INFO - >>> ETL Process Started
+2025-12-22 13:17:12,561 - ERROR - Critical Error: Directory '//Python Assignment//Python Assignment//Sales_Split' not found.
+2025-12-22 13:17:38,101 - INFO - >>> ETL Process Started
+2025-12-22 13:17:38,103 - ERROR - Critical Error: Directory '//Python Assignment//Python Assignment//Sales_Split' not found.
+2025-12-22 13:18:01,497 - INFO - >>> ETL Process Started
+2025-12-22 13:18:01,501 - ERROR - Critical Error: Directory '//Python Assignment//Python Assignment//Sales_Split' not found.
+2025-12-22 13:18:22,360 - INFO - >>> ETL Process Started
+2025-12-22 13:18:22,364 - ERROR - Critical Error: Directory '//Python Assignment//Python Assignment//Sales_Split' not found.
+2025-12-22 13:24:11,764 - INFO - >>> ETL Process Started
+2025-12-22 13:24:11,768 - ERROR - Critical Error: Directory '//Python Assignment//Python Assignment//Sales_Split' not found.
+2025-12-22 13:24:48,402 - INFO - >>> ETL Process Started
+2025-12-22 13:24:48,406 - ERROR - Critical Error: Directory '//Python Assignment//Python Assignment//Sales_Split' not found.
+2025-12-22 13:27:21,837 - INFO - >>> ETL Process Started
+2025-12-22 13:27:55,539 - INFO - >>> ETL Process Started
+2025-12-22 13:28:40,063 - INFO - >>> ETL Process Started
+2025-12-22 13:29:13,692 - INFO - >>> ETL Process Started
+2025-12-22 13:30:41,819 - INFO - >>> ETL Process Started
+2025-12-22 13:30:41,821 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:30:41,824 - INFO - Found 20 sales files to process.
+2025-12-22 13:33:24,391 - INFO - >>> ETL Process Started
+2025-12-22 13:33:24,393 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:33:24,394 - INFO - Found 20 sales files to process.
+2025-12-22 13:33:24,395 - INFO - Step 2: Reading files...
+2025-12-22 13:34:39,758 - INFO - >>> ETL Process Started
+2025-12-22 13:34:39,760 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:34:39,763 - INFO - Found 20 sales files to process.
+2025-12-22 13:34:39,765 - INFO - Step 2: Reading files...
+2025-12-22 13:34:50,172 - INFO - Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 13:38:45,665 - INFO - >>> ETL Process Started
+2025-12-22 13:38:45,666 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:38:45,668 - INFO - Found 20 sales files to process.
+2025-12-22 13:38:45,669 - INFO - Step 2: Reading files...
+2025-12-22 13:38:56,011 - INFO - Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 13:38:56,013 - INFO - Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 13:40:50,029 - INFO - >>> ETL Process Started
+2025-12-22 13:40:50,031 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:40:50,033 - INFO - Found 20 sales files to process.
+2025-12-22 13:40:50,034 - INFO - Step 2: Reading files...
+2025-12-22 13:41:00,082 - INFO - Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 13:41:00,082 - INFO - Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 13:41:00,159 - INFO - Total Rows in Store_Master Dataset 20000
+2025-12-22 13:41:00,160 - INFO - Total Rows in Product_Master Dataset 100000
+2025-12-22 13:44:05,832 - INFO - >>> ETL Process Started
+2025-12-22 13:44:05,833 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:44:05,834 - INFO - Found 20 sales files to process.
+2025-12-22 13:44:05,837 - INFO - Step 2: Reading files...
+2025-12-22 13:44:15,855 - INFO - Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 13:44:15,856 - INFO - Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 13:44:15,936 - INFO - Total Rows in Store_Master Dataset 20000
+2025-12-22 13:44:15,937 - INFO - Total Rows in Product_Master Dataset 100000
+2025-12-22 13:44:15,937 - ERROR - Error loading data: name 'all_sales' is not defined
+2025-12-22 13:44:35,475 - INFO - >>> ETL Process Started
+2025-12-22 13:44:35,477 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:44:35,478 - INFO - Found 20 sales files to process.
+2025-12-22 13:44:35,480 - INFO - Step 2: Reading files...
+2025-12-22 13:44:45,717 - INFO - Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 13:44:45,718 - INFO - Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 13:44:45,801 - INFO - Total Rows in Store_Master Dataset 20000
+2025-12-22 13:44:45,802 - INFO - Total Rows in Product_Master Dataset 100000
+2025-12-22 13:44:51,335 - ERROR - Error loading data: 'skU'
+2025-12-22 13:45:59,952 - INFO - >>> ETL Process Started
+2025-12-22 13:45:59,953 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:45:59,954 - INFO - Found 20 sales files to process.
+2025-12-22 13:45:59,955 - INFO - Step 2: Reading files...
+2025-12-22 13:46:10,479 - INFO - Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 13:46:10,480 - INFO - Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 13:46:10,567 - INFO - Total Rows in Store_Master Dataset 20000
+2025-12-22 13:46:10,568 - INFO - Total Rows in Product_Master Dataset 100000
+2025-12-22 13:46:37,651 - INFO - Joined with Store and Product Masters.
+2025-12-22 13:48:10,925 - INFO - >>> ETL Process Started
+2025-12-22 13:48:10,926 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:48:10,927 - INFO - Found 20 sales files to process.
+2025-12-22 13:48:10,928 - INFO - Step 2: Reading files...
+2025-12-22 13:48:23,937 - INFO - Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 13:48:23,938 - INFO - Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 13:48:24,032 - INFO - Total Rows in Store_Master Dataset 20000
+2025-12-22 13:48:24,032 - INFO - Total Rows in Product_Master Dataset 100000
+2025-12-22 13:48:32,446 - INFO - Joined Sales Data with Store Dataset
+2025-12-22 13:48:43,345 - INFO - Joined Sales Data with Product Dataset.
+2025-12-22 13:55:00,970 - INFO - >>> ETL Process Started
+2025-12-22 13:55:00,975 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:55:00,977 - INFO - Found 20 sales files to process.
+2025-12-22 13:55:00,978 - INFO - Step 2: Reading files...
+2025-12-22 13:55:11,132 - INFO - Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 13:55:11,132 - INFO - Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 13:55:11,208 - INFO - Total Rows in Store_Master Dataset 20000
+2025-12-22 13:55:11,208 - INFO - Total Rows in Product_Master Dataset 100000
+2025-12-22 13:55:15,659 - INFO - Joined Sales Data with Store Dataset
+2025-12-22 13:55:28,725 - INFO - Joined Sales Data with Product Dataset.
+2025-12-22 13:55:37,583 - INFO - Step 5: Filtered for Active stores.
+2025-12-22 13:55:37,591 - INFO - Step 6: Aggregating data...
+2025-12-22 13:56:23,520 - INFO - >>> ETL Process Started
+2025-12-22 13:56:23,526 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 13:56:23,528 - INFO - Found 20 sales files to process.
+2025-12-22 13:56:23,530 - INFO - Step 2: Reading files...
+2025-12-22 13:56:33,704 - INFO - Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 13:56:33,705 - INFO - Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 13:56:33,783 - INFO - Total Rows in Store_Master Dataset 20000
+2025-12-22 13:56:33,784 - INFO - Total Rows in Product_Master Dataset 100000
+2025-12-22 13:56:38,128 - INFO - Joined Sales Data with Store Dataset
+2025-12-22 13:56:48,004 - INFO - Joined Sales Data with Product Dataset.
+2025-12-22 13:57:01,250 - INFO - Step 5: Filtered for Active stores.
+2025-12-22 13:57:01,321 - INFO - Step 6: Aggregating data...
+2025-12-22 14:01:10,161 - INFO - >>> ETL Process Started
+2025-12-22 14:01:10,162 - INFO - Step 1: Scanning directory Ended.
+2025-12-22 14:01:10,163 - INFO - Found 20 sales files to process.
+2025-12-22 14:01:10,164 - INFO - Step 2: Reading files...
+2025-12-22 14:01:20,179 - INFO - Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 14:01:20,180 - INFO - Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 14:01:20,259 - INFO - Total Rows in Store_Master Dataset 20000
+2025-12-22 14:01:20,259 - INFO - Total Rows in Product_Master Dataset 100000
+2025-12-22 14:01:24,639 - INFO - Joined Sales Data with Store Dataset
+2025-12-22 14:01:34,093 - INFO - Joined Sales Data with Product Dataset.
+2025-12-22 14:01:46,157 - INFO - Step 5: Filtered for Active stores.
+2025-12-22 14:01:46,209 - INFO - Step 6: Aggregating data...
+2025-12-22 14:01:55,299 - INFO - Step 7: SUCCESS. Final output saved as 'aggregated_sales.csv'.
+2025-12-22 14:13:29,614 - INFO - >>> ETL Process Started
+2025-12-22 14:13:29,616 - INFO - >>> Scanning directory Ended.
+2025-12-22 14:13:29,616 - INFO - >>> Found 20 sales files to process.
+2025-12-22 14:17:55,759 - INFO - >>> ETL Process Started
+2025-12-22 14:17:55,760 - ERROR - >>> Critical Error: Directory '..\Python Assignment\Python Assignment\Sales_Split' not found.
+2025-12-22 14:18:11,351 - INFO - >>> ETL Process Started
+2025-12-22 14:18:11,352 - INFO - >>> Scanning directory Ended.
+2025-12-22 14:18:11,353 - INFO - >>> Found 20 sales files to process.
+2025-12-22 14:18:11,354 - INFO - >>> Reading files ...
+2025-12-22 14:18:21,349 - INFO - >>> Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 14:18:21,350 - INFO - >>> Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 14:18:21,431 - INFO - >>> Total Rows in Store_Master Dataset 20000
+2025-12-22 14:18:21,432 - INFO - >>> Total Rows in Product_Master Dataset 100000
+2025-12-22 14:18:25,967 - INFO - >>> Joined Sales Data with Store Dataset
+2025-12-22 14:18:37,171 - INFO - >>> Joined Sales Data with Product Dataset.
+2025-12-22 14:18:45,980 - INFO - >>> Filtered for Active stores.
+2025-12-22 14:18:46,004 - INFO - >>> Aggregating data...
+2025-12-22 14:18:54,367 - INFO - >>> SUCCESS. Final output saved as 'aggregated_sales.csv'.
+2025-12-22 14:27:07,212 - INFO - >>> ETL Process Started
+2025-12-22 14:27:07,213 - ERROR - >>> Critical Error: Directory '..\Python Assignment\Sales_Split' not found.
+2025-12-22 14:33:15,363 - INFO - >>> ETL Process Started
+2025-12-22 14:33:15,364 - ERROR - >>> Critical Error: Directory '../Python Assignment/Python Assignment/Sales_Split' not found.
+2025-12-22 14:34:30,890 - INFO - >>> ETL Process Started
+2025-12-22 14:34:30,894 - INFO - >>> Scanning directory Ended.
+2025-12-22 14:34:30,898 - INFO - >>> Found 20 sales files to process.
+2025-12-22 14:34:30,901 - INFO - >>> Reading files ...
+2025-12-22 14:34:45,272 - INFO - >>> Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 14:34:45,273 - INFO - >>> Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 14:34:45,374 - INFO - >>> Total Rows in Store_Master Dataset 20000
+2025-12-22 14:34:45,375 - INFO - >>> Total Rows in Product_Master Dataset 100000
+2025-12-22 14:34:52,301 - INFO - >>> Joined Sales Data with Store Dataset
+2025-12-22 14:35:07,987 - INFO - >>> Joined Sales Data with Product Dataset.
+2025-12-22 14:35:17,371 - INFO - >>> Filtered for Active stores.
+2025-12-22 14:35:17,407 - INFO - >>> Aggregating data...
+2025-12-22 14:35:29,634 - INFO - >>> SUCCESS. Final output saved as 'aggregated_sales.csv'.
+2025-12-22 14:42:10,533 - INFO - >>> ETL Process Started
+2025-12-22 14:44:58,487 - INFO - >>> ETL Process Started
+2025-12-22 14:44:58,491 - INFO - >>> Scanning directory Ended.
+2025-12-22 14:44:58,493 - INFO - >>> Found 20 sales files to process.
+2025-12-22 14:44:58,497 - INFO - >>> Reading files ...
+2025-12-22 14:45:12,297 - INFO - >>> Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 14:45:12,299 - INFO - >>> Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 14:45:12,509 - INFO - >>> Total Rows in Store_Master Dataset 20000
+2025-12-22 14:45:12,511 - INFO - >>> Total Rows in Product_Master Dataset 100000
+2025-12-22 14:45:24,648 - INFO - >>> Joined Sales Data with Store Dataset
+2025-12-22 14:45:44,048 - INFO - >>> Joined Sales Data with Product Dataset.
+2025-12-22 14:45:54,888 - INFO - >>> Filtered for Active stores.
+2025-12-22 14:45:54,928 - INFO - >>> Aggregating data...
+2025-12-22 14:46:07,430 - INFO - >>> SUCCESS. Final output saved as 'aggregated_sales.csv'.
+2025-12-22 14:47:24,622 - INFO - >>> ETL Process Started
+2025-12-22 14:47:24,626 - INFO - >>> Scanning directory Ended.
+2025-12-22 14:47:24,628 - INFO - >>> Found 20 sales files to process.
+2025-12-22 14:47:24,629 - INFO - >>> Reading files ...
+2025-12-22 14:47:37,811 - INFO - >>> Successfully merged 20 files. Total sales records: 20000000
+2025-12-22 14:47:37,813 - INFO - >>> Validation Passed: Sales data is not empty. Proceeding to Joins.
+2025-12-22 14:47:37,914 - INFO - >>> Total Rows in Store_Master Dataset 20000
+2025-12-22 14:47:37,915 - INFO - >>> Total Rows in Product_Master Dataset 100000
+2025-12-22 14:47:47,148 - INFO - >>> Joined Sales Data with Store Dataset
+2025-12-22 14:48:05,927 - INFO - >>> Joined Sales Data with Product Dataset.
+2025-12-22 14:48:20,606 - INFO - >>> Filtered for Active stores.
+2025-12-22 14:48:20,638 - INFO - >>> Aggregating data...
+2025-12-22 14:48:33,091 - INFO - >>> SUCCESS. Final output saved as 'aggregated_sales.csv'.
